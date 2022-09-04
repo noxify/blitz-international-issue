@@ -1,3 +1,3 @@
 export default {
-  translation_key: "Translated - DE",
+  translation_key: "Translated - EN",
 } as const
